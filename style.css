@@ -835,7 +835,7 @@ body {
 
   .hero {
     min-height: calc(100vh - 64px);
-    padding-top: 30px;
+    padding-top: 35px;
   }
 
   .nav-links {
@@ -853,3 +853,4 @@ body {
     display: none;
   }
 }
+
